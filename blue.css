@@ -1,0 +1,29 @@
+html {background-color: #BCE7FD }
+
+.p1 { font:  ;
+   font-size: 29px; text-align: left ;
+       }
+div { text-align: center;font-size: 29px; padding:30px }
+
+.svt {font-style: bold;}
+
+.mmbs { font: Georgia;
+}
+
+img { margin: 10%; }
+
+#tb1, th, td {
+  border: 1px solid black;
+  border-collapse: collapse; padding: 15px;
+}
+
+#tb1 { text-align: center;
+font-size: 24px;  margin: 20px; font: Times  ; font-style: normal;
+
+ }
+ #tb1 tr:nth-child(even) { background-color: #B07BAC }
+ #tb1 tr:nth-child(odd) {background-color: #D7D7DD }
+
+h3 {font: Courier; font-family: monospace; text-align: center;}
+
+p  { margin-left: 30px; font:Times; font-style: normal;}
